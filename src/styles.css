@@ -1,0 +1,24 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    background-color: rgb(239, 244, 255);
+}
+#main-container{
+ height: 500px;
+width: 60%;
+}
+.form{
+    width: 400px;
+}
+.form-container{
+    background-color: rgba(255, 255, 255, 0.262);
+    height: 200px;
+}
+.button{
+    width: fit-content;
+    border: 2px solid rgba(0, 0, 0, 0.515);
+}
+#game-container{
+    height: 460px;
+}

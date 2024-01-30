@@ -3,7 +3,7 @@ module.exports = {
   content: [
     './components/**/*.{html,js}',
     './pages/**/*.{html,js}',
-    './index.html',
+    './src/index.html',
   ],
   theme: {
     colors: {
@@ -20,6 +20,7 @@ module.exports = {
     fontFamily: {
       sans: ['Graphik', 'sans-serif'],
       serif: ['Merriweather', 'serif'],
+      mono: ['SFMono-Regular', 'monospace']
     },
     extend: {
       spacing: {
