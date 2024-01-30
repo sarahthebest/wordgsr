@@ -1,0 +1,14 @@
+{
+  "name": "wordgsr",
+  "version": "1.0.0",
+  "description": "word scramber game",
+  "main": "\u001b[D",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sarah",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
